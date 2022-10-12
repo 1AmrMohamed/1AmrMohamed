@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Amr Mohamed </h1> 
+<h1 align="center">Hi 👋, I'm Amr Mohamed <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"> </h1> 
 <h3 align="center">Software Engineer🌟</h3>
 
 - 🌱 I’m Software Engineer works on differenct technologies such as Backend development, Flutter development and React js
