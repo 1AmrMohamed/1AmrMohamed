@@ -1,7 +1,17 @@
 <h1 align="center">Hi 👋, I'm Amr Mohamed</h1>
 <h3 align="center">Software Engineer🌟</h3>
 
+- 🌱 I’m Software Engineer works on differenct technologies such as Backend development, Flutter development and React js
+
+- 📚 I’m Open to learn and work on new things
+
+- 🎓 Computer Science Graduate
+
+- ⚡ Learn,Build and Grow.
+
 - 📫 How to reach me **amrrez11@gmail.com**
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
