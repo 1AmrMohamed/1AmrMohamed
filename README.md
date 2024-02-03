@@ -9,7 +9,7 @@
 
 - ⚡ Learn,Build and Grow.
 
-- 📫 How to reach me **amrrez11@gmail.com**
+- 📫 How to reach me **amr.mohameed@outlook.com**
 
 <br>
 
